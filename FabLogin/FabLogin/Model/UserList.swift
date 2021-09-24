@@ -13,7 +13,6 @@ struct UserList: Codable, Identifiable {
     var title: String
     var body: String
 }
-var user = UserList()
 
 
 
